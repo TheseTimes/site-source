@@ -3,7 +3,7 @@
   "relativeURLs": "true",
   "languageCode": "pt-br",
   "defaultContentLanguage": "pt",
-  "copyright": "Written in 2018 by Daniell Mesquita (https://daniellmesquita.eth.link)",
+  "copyright": "(c) 2021-2023 Daniella Mesquita (https://danimesq.eth.link)",
   "favicon": "/icon.ico",
   "paginate": 3,
   "paginatePath": "page",
@@ -16,7 +16,7 @@
   "languages": {
     "pt": {
       "languageName": "🇵🇹 Português",
-      "title": "Ainda precisam de um Terceiro Testamento?",
+      "title": "These Difficult Times",
       "menu": {
         "main": [
           {
@@ -39,7 +39,7 @@
     },
     "en": {
       "languageName": "🇬🇧 English",
-      "title": "Do you still need a Third Testament?",
+      "title": "These Difficult Times",
       "menu": {
         "main": [
           {
