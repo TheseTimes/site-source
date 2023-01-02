@@ -3,6 +3,7 @@
   "relativeURLs": "true",
   "languageCode": "pt-br",
   "defaultContentLanguage": "pt",
+  "title": "These Difficult Times",
   "copyright": "(c) 2021-2023 Daniella Mesquita (https://danimesq.eth.link)",
   "favicon": "/icon.ico",
   "paginate": 3,
@@ -16,7 +17,6 @@
   "languages": {
     "pt": {
       "languageName": "🇵🇹 Português",
-      "title": "These Difficult Times",
       "menu": {
         "main": [
           {
@@ -39,7 +39,6 @@
     },
     "en": {
       "languageName": "🇬🇧 English",
-      "title": "These Difficult Times",
       "menu": {
         "main": [
           {
